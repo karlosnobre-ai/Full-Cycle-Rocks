@@ -4,12 +4,12 @@ Desafio Docker com Go - Imagem otimizada (< 2MB).
 
 ## Imagem no Docker Hub
 
-[https://hub.docker.com/r/SEU_USUARIO/fullcycle](https://hub.docker.com/r/SEU_USUARIO/fullcycle)
+[https://hub.docker.com/r/karlosnobre/fullcycle](https://hub.docker.com/r/karlosnobre/fullcycle)
 
 ## Como executar
 
 ```bash
-docker run SEU_USUARIO/fullcycle
+docker run karlosnobre/fullcycle
 ```
 
 ## Como buildar localmente
